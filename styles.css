@@ -167,7 +167,7 @@
     }
 }
 
-/* ✅ TABLET FIX (KEY FIX FOR 1023px) */
+/* TABLET */
 @media (min-width: 769px) and (max-width: 1024px) {
 
     .nav1 {
@@ -175,8 +175,9 @@
     }
 
     .nav-list {
-        font-size: 22px;        /* 🔧 reduced */
-        letter-spacing: 2px;   /* 🔧 reduced */
-        gap: 18px;             /* 🔧 reduced */
+        font-size: 22px;        
+        letter-spacing: 2px;   
+        gap: 18px;             
     }
 }
+
